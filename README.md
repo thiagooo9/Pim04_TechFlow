@@ -15,7 +15,11 @@ Somos uma equipe de desenvolvedores do ambiente acadêmico da UNIP de São José
 
 ## Proposta <a id="proposta"></a>
 
-Visamos desenvolver um **portal de chamados inteligente** que otimiza o atendimento técnico e a comunicação entre clientes e atendentes. Utilizando **Inteligência Artificial**, o sistema realiza triagem automática, classificação de solicitações e sugere soluções para problemas frequentes, otimizando o tempo de resposta, melhor organização dos chamados e reduzindo a sobrecarga da equipe de TI.
+Pretendemos desenvolver um **portal de gestão de chamados** sofisticado focado em otimizar o atendimento técnico e a comunicação entre os usuários e a equipe de suporte.
+
+Incorporando a Inteligência Artificial, este sistema é capaz de realizar a triagem e a classificação automática das solicitações. Além disso, ele sugere soluções para os incidentes recorrentes, utilizando uma base de conhecimento ativa.
+
+Isso resulta em uma signicativa otimização do tempo de resposta, uma melhor organização do fluxo de trabalho e, consequentemente, uma redução da carga operacional sobre a equipe de TI.
 
 ---
 
@@ -86,8 +90,7 @@ Visamos desenvolver um **portal de chamados inteligente** que otimiza o atendime
 ## Como Usar <a id="como-usar"></a>
 
 Para garantir o melhor aproveitamento do portal de chamados:
-
-* **1. Registro de Chamados**
+.* **1. Registro de Chamados**
     * Os usuários podem **abrir chamados** descrevendo o problema e definindo a prioridade.
 * **2. Visualização e Gerenciamento**
     * Atendentes podem visualizar, **editar** e **alterar status** dos chamados.
